@@ -1,0 +1,2 @@
+# myforum
+First django project
