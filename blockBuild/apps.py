@@ -3,5 +3,5 @@ from __future__ import unicode_literals
 from django.apps import AppConfig
 
 
-class BlockConfig(AppConfig):
-    name = 'block'
+class BlockbuildConfig(AppConfig):
+    name = 'blockBuild'
